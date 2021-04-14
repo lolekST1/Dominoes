@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # here is your word
+    word = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9152#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 12 Apr 2021 20:35:38 UTC
+record: -1
